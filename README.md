@@ -4,8 +4,8 @@
 (Scraping, Cleaning, Dashboarding & Presentation)
 
 ## 📁 Project Structure
-- `data/`: Cleaned dataset after preprocessing
-- `notebooks/`: Jupyter Notebook used for cleaning and scraping
+- `clean_jobs/`: raw dataset
+- `python code/`: Jupyter Notebook used for cleaning and scraping
 - `dashboard/`: Screenshot of Power BI dashboard
 - `presentation/`: PDF summary of project findings
 
